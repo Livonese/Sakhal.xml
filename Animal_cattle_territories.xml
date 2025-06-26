@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <!--Nogovo-->
+	<!-- <territory color="897974502">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8293" z="8010" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8231" z="7804" r="100"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8376" z="7540" r="110"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8570" z="7777" r="140"/>
+    </territory> -->
+	<!--Nogovo-->
+    <!--MMG IMPORT trader-->
+	<territory color="897974502">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11755" z="6632" r="30"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11899" z="6628" r="90"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11857" z="6574" r="50"/>
+    </territory>
+	<territory color="897974502">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11775" z="6632" r="30"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11919" z="6628" r="90"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11877" z="6574" r="50"/>
+    </territory>
+	<territory color="897974502">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11775" z="6642" r="30"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11919" z="6638" r="90"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11877" z="6584" r="50"/>
+    </territory>
+	<!--MMG IMPORT trader-->
+</territory-type>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <!--Ostry/Tupoy-->
+    <territory color="872412930">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11493" z="11880" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11649" z="11553" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12016" z="11253" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11741" z="11066" r="120"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="11394" z="11094" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11615" z="10831" r="120"/>
+    </territory>
+    <!--Ostry/Tupoy-->
+    <!--Zvezdnyy Nikel-->
+	<territory color="872412930">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="10811" z="10888" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11227" z="10689" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11435" z="10316" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11638" z="10012" r="120"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="11310" z="9941" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11141" z="10170" r="120"/>
+    </territory>
+	<territory color="872412930">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11820" z="10593" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12298" z="10445" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12667" z="10320" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12496" z="10074" r="120"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="12090" z="10239" r="120"/>
+    </territory>
+    <!--Zvezdnyy Nikel-->
+</territory-type>
