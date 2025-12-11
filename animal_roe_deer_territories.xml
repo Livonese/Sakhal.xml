@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <!--Tikhoye-->
+	<territory color="1090576876">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5400" z="8500" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5788" z="8610" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5588" z="8244" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5777" z="7766" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6281" z="7722" r="55"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6600" z="8177" r="80"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="6750" z="8700" r="67.5"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6326" z="9000" r="110"/>
+    </territory>
+    <!--Bolotnoye-->
+    <territory color="1090576876">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4700" z="8910" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5032" z="9200" r="67.5"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5655" z="8855" r="67.5"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5906" z="9427" r="105"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6588" z="9466" r="67.5"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7260" z="9311" r="120"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="7844" z="9322" r="100"/>
+    </territory>
+    <!--Petropavlovsk-Sakhalinsk/Troika-->
+    <territory color="1090576877">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5866" z="9811" r="82.5"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6222" z="9488" r="75"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6055" z="9944" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6525" z="9777" r="82.5"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="6577" z="10188" r="82.5"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6971" z="10376" r="82.5"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7811" z="10100" r="115"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8333" z="9844" r="93.5"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8456" z="9588" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8622" z="9166" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9240" z="9300" r="120"/>
+    </territory>
+    <!--Tikhoye/Troika-->
+    <territory color="1090576877">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7333" z="9345" r="82.5"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7633" z="9033" r="67.5"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7931" z="8644" r="90"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8626" z="8616" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9355" z="8822" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9066" z="9133" r="120"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8588" z="9200" r="67.5"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8277" z="9400" r="120"/>
+    </territory>
+    <!--Nogovo/Taranaj-->
+    <territory color="1090576878">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8588" z="7000" r="160"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3201.5" z="11533.5" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8964" z="6988" r="70"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8777" z="7288" r="80"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9026" z="7610" r="60"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="9420" z="7300" r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9388" z="7755" r="67.5"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="9422" z="8111" r="82.5"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9708" z="8424" r="60"/>
+    </territory>
+    <!--Nogovo/Troika-->
+    <territory color="1090576878">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9275" z="9108" r="82.5"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9172" z="8644" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8696" z="8644" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9048" z="8370" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8673" z="8096" r="67.5"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8328" z="8265" r="100"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7933" z="8644" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7555" z="8233" r="67.5"/>
+    </territory>
+    <!--Shumnoye/Aniva-->
+    <territory color="1090576879">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="14044" z="9466" r="82.5"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="13600" z="9422" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="13800" z="9000" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="13277" z="9133" r="97.5"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="13222" z="8677" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12755" z="8222" r="90"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="13222" z="7766" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12626" z="7897" r="130"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12122" z="7644" r="170"/>
+    </territory>
+</territory-type>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<!-- 35 territories / 23 nominal -->
+	<!-- Serveromorsk -->
+	<territory color="1289677460">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10020" z="13470" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9804" z="13427" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9734" z="13257" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9586" z="13334" r="80"/>
+    </territory>
+	<territory color="1289677460">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9933" z="13349" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9794" z="13265" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9665" z="13183" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9511" z="13285" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9543" z="13405" r="80"/>
+    </territory>
+	<territory color="1289677460">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9465" z="13198" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9421" z="13315" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9458" z="13452" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9587" z="13503" r="80"/>
+    </territory>
+	<territory color="1289677460">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9310" z="13176" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9364" z="13325" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9525" z="13368" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9669" z="13408" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9722" z="13522" r="80"/>
+    </territory>
+	<territory color="1289677460">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9330" z="13408" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9299" z="13559" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9469" z="13551" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9592" z="13401" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9563" z="13195" r="80"/>
+    </territory>
+	<!-- Serveromorsk -->
+	<!-- Rudnogorsk -->
+	<territory color="1289677461">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13655" z="12287" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13506" z="12272" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13257" z="12136" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13180" z="12020" r="80"/>
+    </territory>
+	<territory color="1289677461">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13037" z="12051" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12993" z="11813" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13202" z="11650" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13341" z="11452" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13494" z="11311" r="80"/>
+    </territory>
+	<territory color="1289677461">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13438" z="11961" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13215" z="11887" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12978" z="11723" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12941" z="11445" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12937" z="11193" r="80"/>
+    </territory>
+	<territory color="1289677461">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13880" z="11727" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13556" z="11647" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13346" z="11795" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13095" z="11690" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12757" z="11386" r="80"/>
+    </territory>
+	<territory color="1289677461">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13446" z="11099" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13500" z="11414" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13285" z="11636" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13066" z="11725" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13173" z="11983" r="80"/>
+    </territory>
+	<!-- Rudnogorsk -->
+	<!-- Aniva -->
+	<territory color="1289677462">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13136" z="7763" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12905" z="7709" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12813" z="7503" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12637" z="7394" r="80"/>
+    </territory>
+	<territory color="1289677462">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13141" z="7474" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12789" z="7673" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12572" z="7590" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12591" z="7425" r="80"/>
+    </territory>
+	<territory color="1289677462">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12848" z="7627" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12657" z="7617" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12537" z="7490" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12744" z="7385" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12773" z="7216" r="80"/>
+    </territory>
+	<territory color="1289677462">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12899" z="7430" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12741" z="7442" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12720" z="7232" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12825" z="7290" r="80"/>
+    </territory>
+	<territory color="1289677462">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12545" z="7147" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12612" z="7284" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12699" z="7165" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12773" z="7297" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12809" z="7131" r="80"/>
+    </territory>
+	<!-- Aniva -->
+	<!-- Sakhalag -->
+	<territory color="1289677463">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10258" z="8645" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10293" z="8578" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10384" z="8587" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10391" z="8515" r="15"/>
+    </territory>
+	<territory color="1289677463">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10515" z="8555" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10425" z="8581" r="30"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10332" z="8583" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10304" z="8532" r="15"/>
+    </territory>
+	<territory color="1289677463">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10455" z="8465" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10431" z="8536" r="30"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10344" z="8531" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10282" z="8563" r="20"/>
+    </territory>
+	<territory color="1289677463">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10341" z="8436" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10413" z="8488" r="30"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10446" z="8568" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10382" z="8587" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10384" z="8634" r="20"/>
+    </territory>
+	<!-- Sakhalag -->
+	<!-- Nogovo -->
+	<territory color="1289677464">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7063" z="8111" r="50"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7286" z="8083" r="30"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7332" z="7918" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7548" z="7855" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7558" z="7671" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7777" z="7777" r="20"/>
+    </territory>
+	<territory color="1289677464">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7075" z="7836" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7350" z="7718" r="30"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7434" z="7897" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7657" z="7994" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7820" z="7863" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7650" z="7827" r="20"/>
+    </territory>
+	<territory color="1289677464">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7387" z="8129" r="50"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7521" z="7976" r="30"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7561" z="7792" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7730" z="7951" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7871" z="7906" r="20"/>
+    </territory>
+	<territory color="1289677464">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7775" z="8043" r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7991" z="7864" r="30"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7844" z="7767" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7698" z="7885" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7564" z="7934" r="20"/>
+    </territory>
+	<territory color="1289677464">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8196" z="7987" r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8144" z="7713" r="30"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8006" z="7458" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7823" z="7566" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7616" z="7720" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7810" z="7980" r="20"/>
+    </territory>
+	<territory color="12896774605>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8243" z="7595" r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7892" z="7464" r="30"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7874" z="7714" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7705" z="7755" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7671" z="7959" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7455" z="7770" r="20"/>
+    </territory>
+	<territory color="1289677465">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7924" z="7398" r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8004" z="7615" r="30"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7758" z="7668" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7650" z="7846" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7383" z="7832" r="20"/>
+    </territory>
+	<territory color="1289677465">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7905" z="7830" r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7691" z="7917" r="30"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7639" z="7731" r="40"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7483" z="7726" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7380" z="7924" r="20"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7635" z="7971" r="20"/>
+    </territory>
+	<!-- Nogovo -->
+	<!-- Petropavlovsk-Sakhalinsk -->
+	<territory color="1289677465">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4854" z="11211" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4853" z="11333" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4949" z="11364" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5189" z="11430" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5338" z="11389" r="80"/>
+    </territory>
+	<territory color="1289677466">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5189" z="11430" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5236" z="11353" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5230" z="11249" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5399" z="11206" r="80"/>
+    </territory>
+	<territory color="1289677466">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5083" z="11328" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5247" z="11348" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5428" z="11283" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5554" z="11152" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5644" z="11000" r="80"/>
+    </territory>
+	<territory color="1289677466">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5512" z="11333" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5562" z="11139" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5761" z="11036" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5723" z="10924" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5888" z="10832" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5771" z="10691" r="80"/>
+    </territory>
+	<territory color="1289677467">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5469" z="11035" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5640" z="11017" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5866" z="10993" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6019" z="10881" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5860" z="10783" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5638" z="10831" r="80"/>
+    </territory>
+	<territory color="1289677467">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5218" z="9826" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5350" z="9945" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5555" z="10000" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5459" z="9814" r="80"/>
+    </territory>
+	<territory color="1289677467">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5625" z="9867" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5317" z="9917" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5428" z="10089" r="80"/>
+    </territory>
+	<territory color="1289677467">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5356" z="10109" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5266" z="9956" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5435" z="9961" r="80"/>
+    </territory>
+	<!-- Petropavlovsk-Sakhalinsk -->
+</territory-type>

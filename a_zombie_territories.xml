@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<territory color="1956025930">
+        <zone name="InfectedCivTier1" smin="0" smax="0" dmin="2" dmax="3" x="6775" z="13333" r="80"/> <!--Yasnomorsk-->
+        <zone name="InfectedCivTier1" smin="0" smax="0" dmin="2" dmax="3" x="6978" z="13372" r="60"/>
+        <zone name="InfectedCivTier1" smin="0" smax="0" dmin="2" dmax="3" x="7077" z="13385" r="60"/>
+        <zone name="InfectedCivTier1" smin="0" smax="0" dmin="2" dmax="3" x="7003" z="13305" r="70"/>
+        <zone name="InfectedCivTier1" smin="0" smax="0" dmin="2" dmax="3" x="6901" z="13304" r="80"/> <!--Yasnomorsk-->
+        <zone name="InfectedCivTier1" smin="0" smax="0" dmin="2" dmax="3" x="9485" z="13240" r="160"/> <!--Serveromorsk-->
+        <zone name="InfectedCivTier1" smin="0" smax="0" dmin="3" dmax="5" x="9474" z="13450" r="130"/>
+        <zone name="InfectedCivTier1" smin="0" smax="0" dmin="3" dmax="5" x="9571" z="13393" r="130"/>
+        <zone name="InfectedCivTier1" smin="0" smax="0" dmin="3" dmax="5" x="9668" z="13326" r="130"/>
+        <zone name="InfectedCivTier1" smin="0" smax="0" dmin="6" dmax="8" x="9783" z="13407" r="150"/> <!--Serveromorsk-->
+		<zone name="InfectedCivTier1" smin="0" smax="0" dmin="5" dmax="7" x="14239" z="11673" r="200"/> <!--Rudnogorsk-->
+		<zone name="InfectedCivTier1" smin="0" smax="0" dmin="2" dmax="3" x="13139" z="10512" r="110"/> <!--Rudnogorsk s-->
+		<zone name="InfectedCivTier1" smin="0" smax="0" dmin="2" dmax="3" x="13113" z="10342" r="110"/> <!--Rudnogorsk s-->
+        <zone name="InfectedCivTier1" smin="0" smax="0" dmin="5" dmax="7" x="14470" z="8871" r="90"/> <!--Shumnoye-->
+        <zone name="InfectedCivTier1" smin="0" smax="0" dmin="2" dmax="3" x="14337" z="8982" r="60"/> <!--Shumnoye-->
+        <zone name="InfectedCivTier1" smin="0" smax="0" dmin="0" dmax="2" x="13364" z="7588" r="150"/> <!--Aniva-->
+        <zone name="InfectedCivTier1" smin="0" smax="0" dmin="0" dmax="2" x="12903" z="7460" r="100"/> <!--Aniva-->
+        <zone name="InfectedCivTier1" smin="0" smax="0" dmin="0" dmax="2" x="12646" z="7259" r="100"/> <!--Aniva-->
+        <zone name="InfectedCivTier1" smin="0" smax="0" dmin="0" dmax="2" x="12843" z="7226" r="70"/> <!--Aniva-->
+    </territory>
+	<territory color="1956025931">
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="0" dmax="1" x="4275" z="8359" r="150"/> <!--Bolotnoye-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="0" dmax="2" x="4455" z="8444" r="150"/> <!--Bolotnoye-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="0" dmax="3" x="4609" z="8620" r="150"/> <!--Bolotnoye-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="0" dmax="5" x="4828" z="8703" r="150"/> <!--Bolotnoye-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="0" dmax="7" x="5000" z="8800" r="160"/> <!--Bolotnoye-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="0" dmax="9" x="5100" z="8600" r="180"/> <!--Bolotnoye-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="4" dmax="6" x="6022" z="7382" r="140"/> <!--Dudino-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="6" dmax="8" x="6156" z="7300" r="120"/> <!--Dudino-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="6320" z="7233" r="120"/> <!--Dudino-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="4" dmax="6" x="8897" z="6621" r="150"/> <!--Taranaj w-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="9673" z="6808" r="150"/> <!--Taranaj-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="9678" z="7080" r="150"/> <!--Taranaj-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="9236" z="7494" r="110"/> <!--Taranaj n-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="10700" z="6560" r="120"/> <!--Yuzhnoye-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="3" dmax="5" x="10783" z="6480" r="120"/> <!--Yuzhnoye-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="5" dmax="8" x="10865" z="6321" r="150"/> <!--Yuzhnoye-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="8" dmax="11" x="7573" z="7846" r="150"/> <!--Nogovo-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="4" dmax="6" x="7787" z="7882" r="150"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="5" dmax="7" x="7929" z="7668" r="150"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="7958" z="7419" r="150"/> <!--Nogovo-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="6" dmax="9" x="6525" z="12842" r="95"/> <!--Sovetskoye-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="6683" z="12733" r="80"/> <!--Sovetskoye-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="6207" z="12737" r="150"/> <!--Sovetskoye w-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="3" dmax="5" x="5702" z="12519" r="150"/> <!--Zhupanovo-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="6" dmax="9" x="5930" z="12638" r="150"/> <!--Zhupanovo-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="5728" z="12420" r="200"/> <!--Zhupanovo-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="4" dmax="6" x="5979" z="12680" r="130"/> <!--Zhupanovo-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="5468" z="11208" r="90"/> <!--Petropavlovsk-Sakhalinsk-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="5531" z="11086" r="90"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="5613" z="11234" r="90"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="3" dmax="5" x="5709" z="11094" r="90"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="5625" z="10961" r="90"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="3" dmax="5" x="5753" z="10966" r="90"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="3" dmax="5" x="5857" z="10783" r="90"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="4" dmax="6" x="5783" z="10666" r="90"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="4" dmax="6" x="5953" z="10654" r="90"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="4" dmax="6" x="5777" z="10527" r="90"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="5" dmax="7" x="5778" z="10350" r="90"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="5" dmax="7" x="5715" z="10195" r="90"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="5" dmax="7" x="5962" z="10230" r="90"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="3" dmax="5" x="6000" z="11111" r="110"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="5637" z="10057" r="90"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="6" dmax="9" x="5256" z="9899" r="160"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="6" dmax="9" x="5474" z="9936" r="150"/> <!--Petropavlovsk-Sakhalinsk-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="4" dmax="6" x="2660" z="9280" r="90"/> <!--Burukan n/w-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="5" dmax="7" x="1627" z="8012" r="90"/> <!--Burukan n/w-->
+    </territory>
+    <territory color="1291845632">
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="2" dmax="3" x="9604.29" z="13463.6" r="50"/>
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="2" dmax="9" x="5710" z="10410" r="100"/>
+    </territory>
+    <territory color="1910952871">
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="0" dmax="3" x="9579" z="13283" r="90"/> <!--Serveromorsk-->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="3" x="10950" z="9733" r="90"/> <!--Lesogorovka-->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="0" dmax="4" x="5055" z="8655" r="90"/> <!--Bolotnoye-->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="0" dmax="4" x="6188" z="7266" r="90"/> <!--Dudino-->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="0" dmax="3" x="7799" z="7777" r="200"/> <!--Nogovo-->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="0" dmax="3" x="11021" z="8064" r="90"/> <!--Vysokoye-->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="4" dmax="6" x="10851" z="6286" r="90"/> <!--Yuzhnoye-->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="4" x="5426" z="9960" r="140"/> <!--P.P.S.-->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="4" x="5651" z="10150" r="150"/> <!--P.P.S.-->
+    </territory>
+    <territory color="1910952872">
+        <zone name="InfectedHunter" smin="0" smax="0" dmin="2" dmax="3" x="8428" z="12470" r="90"/> <!--Storozh-->
+        <zone name="InfectedHunter" smin="0" smax="0" dmin="2" dmax="3" x="10406" z="10480" r="90"/> <!--Iturup-->
+        <zone name="InfectedHunter" smin="0" smax="0" dmin="4" dmax="6" x="11526" z="9165" r="120"/> <!--Ice Ridge-->
+        <zone name="InfectedHunter" smin="0" smax="0" dmin="3" dmax="5" x="9195" z="8704" r="140"/> <!--Troika-->
+        <zone name="InfectedHunter" smin="0" smax="0" dmin="4" dmax="6" x="7567" z="11908" r="100"/> <!--Wolf Peak w-->
+        <zone name="InfectedHunter" smin="0" smax="0" dmin="2" dmax="3" x="6959" z="9521" r="80"/> <!--Yasnaya Polyana-->
+    </territory>
+    <territory color="1910952873">
+		<zone name="InfectedHunters" smin="0" smax="0" dmin="3" dmax="5" x="7809" z="7710" r="130"/> <!--Nogovo-->
+		<zone name="InfectedHunters" smin="0" smax="0" dmin="2" dmax="3" x="8132" z="9929" r="200"/> <!--Sakhalin Geopp-->
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="2" dmax="3" x="7777" z="10600" r="200"/> <!--Sakhalin Geopp w-->
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="3" dmax="5" x="6999" z="10730" r="130"/> <!--Petropavlovsk-Sakhalinsk-->
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="4" dmax="6" x="7092" z="10868" r="130"/> <!--Petropavlovsk-Sakhalinsk-->
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="3" dmax="5" x="8945" z="11531" r="130"/> <!--Wolf Peak east-->
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="10552" z="10533" r="160"/> <!--Iturup / Sakhalin'sk / Yasnaya-->
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="10781" z="10278" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="10779" z="10027" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="10916" z="9802" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="11111" z="9624" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="10642" z="9566" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="10400" z="9517" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="10190" z="9718" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="9961" z="9800" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="9403" z="9879" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="9144" z="9939" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="8915" z="10023" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="8664" z="9978" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="8495" z="10085" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="8377" z="10246" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="8188" z="10370" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="7996" z="10501" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="7736" z="10492" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="7856" z="10807" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="8398" z="9948" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="8358" z="9688" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="8283" z="9436" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="8141" z="9217" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="8390" z="9106" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="8615" z="8981" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="8045" z="9000" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="8150" z="8805" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="7659" z="8888" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="7468" z="8521" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="7252" z="8701" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="7001" z="8675" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="6750" z="8636" r="160"/>
+        <zone name="InfectedHunters" smin="0" smax="0" dmin="0" dmax="2" x="7284" z="8215" r="160"/> <!--Iturup / Sakhalin'sk / Yasnaya-->
+    </territory>
+    <territory color="1219902165">
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="3" x="6350" z="12833" r="70"/> <!--Sovetskoye-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="0" dmax="2" x="9286" z="13623" r="80"/> <!--Serveromorsk-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="5" x="9402" z="13500" r="120"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="5" dmax="7" x="9470" z="13559" r="120"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="5" x="9720" z="1348" r="90"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="3" x="9845" z="13480" r="70"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="3" x="9976" z="13490" r="60"/> <!--Serveromorsk-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="4" x="13378" z="12215" r="90"/> <!--Rudnogorsk-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="3" x="13487" z="12252" r="70"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="5" dmax="7" x="13348" z="12039" r="90"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="3" x="13435" z="11864" r="80"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="4" x="13455" z="11716" r="70"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="3" x="13606" z="11748" r="60"/> <!--Rudnogorsk-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="1" dmax="2" x="14410" z="8875" r="90"/> <!--Shumnoye-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="4" dmax="6" x="13222" z="7585" r="150"/> <!--Aniva-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="4" dmax="6" x="9024" z="6766" r="120"/> <!--Taranaj-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="3" x="9704" z="6503" r="120"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="3" x="9675" z="6627" r="120"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="3" x="9686" z="9651" r="150"/> <!--Taranaj-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="9" dmax="13" x="7354" z="8005" r="200"/> <!--Nogovo-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="5" dmax="7" x="9686" z="9651" r="150"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="4" dmax="6" x="7383" z="7743" r="140"/> <!--Nogovo-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="3" x="10661" z="8039" r="150"/> <!--Vysokoye-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="5" x="10774" z="8053" r="170"/> <!--Vysokoye-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="5" dmax="8" x="11050" z="9500" r="200"/> <!--Lesogorovka-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="8" dmax="11" x="8338" z="10360" r="90"/> <!--Sakhalin Geopp-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="6" dmax="9" x="8434" z="10270" r="80"/> <!--Sakhalin Geopp-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="5" x="5702" z="12173" r="200"/> <!--Zhupanovo-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="3" x="4795" z="11200" r="80"/> <!--Petropavlovsk-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="3" x="4840" z="11351" r="90"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="5" x="5151" z="11377" r="90"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="5" x="5131" z="11215" r="70"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="4" dmax="6" x="5275" z="11197" r="70"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="4" dmax="6" x="5444" z="11111" r="90"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="5" dmax="7" x="5618" z="10907" r="90"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="10" dmax="12" x="5640" z="10277" r="120"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="5" x="6066" z="10388" r="120"/> <!--Petropavlovsk-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="7" dmax="13" x="5725" z="9400" r="160"/> <!--capitol county-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="3" x="5798" z="9258" r="120"/> <!--capitol county-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="5" dmax="9" x="2711" z="7362" r="110"/> <!--Burukan-->
+    </territory>
+    <territory color="2387830983">
+        <zone name="InfectedDrWhite" smin="0" smax="0" dmin="5" dmax="8" x="8132" z="11985" r="110"/> <!--Wolf Peak-->
+        <zone name="InfectedDrWhite" smin="0" smax="0" dmin="7" dmax="9" x="7425" z="9729" r="120"/> <!--Yasnaya mil. base-->
+    </territory>
+    <territory color="2387830984">
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="2" dmax="3" x="9353" z="13616" r="50"/> <!--Serveromorsk-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="3" dmax="5" x="9425" z="13582" r="60"/>
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="4" dmax="6" x="9518" z="13551" r="80"/>
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="4" dmax="6" x="9670" z="13528" r="90"/>
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="4" dmax="6" x="9757" z="13507" r="70"/>
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="4" dmax="6" x="9850" z="13504" r="60"/> <!--Serveromorsk-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="3" dmax="4" x="14300" z="8872" r="60"/> <!--Shumnoye-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="4" dmax="5" x="14301" z="8820" r="60"/> <!--Shumnoye-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="3" dmax="5" x="12890" z="7405" r="70"/> <!--Aniva-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="7" dmax="10" x="11050" z="8000" r="80"/> <!--Vysokoye-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="7" dmax="10" x="9900" z="9800" r="80"/> <!--Dolinovka-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="7" dmax="10" x="7832" z="7641" r="90"/> <!--Nogovo-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="7" dmax="10" x="5822" z="10163" r="100"/> <!--Petropavlovsk-Sakhalinsk-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="4" dmax="6" x="5622" z="10170" r="100"/>
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="7" dmax="10" x="5418" z="10171" r="90"/>
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="5" dmax="8" x="13767" z="11907" r="80"/>
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="5" dmax="8" x="9805.5" z="13480.5" r="50"/>
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="5" dmax="8" x="9399" z="13627.5" r="50"/>
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="3" dmax="6" x="6294.38" z="12817.5" r="50"/>
+    </territory>
+    <territory color="2387830985">
+        <zone name="InfectedPatient" smin="0" smax="0" dmin="0" dmax="2" x="9396" z="13557" r="80"/> <!--Serveromorsk-->
+        <zone name="InfectedPatient" smin="0" smax="0" dmin="2" dmax="3" x="9541" z="13500" r="120"/> <!--Serveromorsk-->
+        <zone name="InfectedPatient" smin="0" smax="0" dmin="2" dmax="3" x="9777" z="13497" r="120"/> <!--Serveromorsk-->
+        <zone name="InfectedPatient" smin="0" smax="0" dmin="2" dmax="3" x="9353" z="13616" r="120"/> <!--Serveromorsk-->
+        <zone name="InfectedPatient" smin="0" smax="0" dmin="2" dmax="3" x="14366" z="8862" r="90"/> <!--Shumnoye-->
+        <zone name="InfectedPatient" smin="0" smax="0" dmin="2" dmax="3" x="11080" z="8000" r="120"/> <!--Vysokoye-->
+        <zone name="InfectedPatient" smin="0" smax="0" dmin="4" dmax="7" x="11066" z="7991" r="120"/> <!--Dolinovka-->
+        <zone name="InfectedPatient" smin="0" smax="0" dmin="6" dmax="9" x="7910" z="7658" r="120"/> <!--Nogovo-->
+        <zone name="InfectedPatient" smin="0" smax="0" dmin="12" dmax="15" x="5723" z="10163" r="200"/> <!--Petropavlovsk-Sakhalinsk-->
+    </territory>
+    <territory color="2610838961">
+        <zone name="InfectedScientist" smin="0" smax="0" dmin="6" dmax="9" x="11000" z="11500" r="150"/> <!--Ostry-->
+        <zone name="InfectedScientist" smin="0" smax="0" dmin="3" dmax="5" x="11100" z="11500" r="110"/> <!--Ostry-->
+        <zone name="InfectedScientist" smin="0" smax="0" dmin="8" dmax="12" x="8350" z="10250" r="220"/> <!--Sakhalin Geopp-->
+        <zone name="InfectedScientist" smin="0" smax="0" dmin="2" dmax="3" x="11910" z="10252.5" r="80"/> <!--Zvezdnyy Nikel-->
+        <zone name="InfectedScientist" smin="0" smax="0" dmin="1" dmax="2" x="11858" z="10163" r="80"/> <!--Zvezdnyy Nikel-->
+        <zone name="InfectedScientist" smin="0" smax="0" dmin="1" dmax="2" x="11779" z="10235" r="80"/> <!--Zvezdnyy Nikel-->
+        <zone name="InfectedScientist" smin="0" smax="0" dmin="1" dmax="2" x="12116" z="10232" r="80"/> <!--Zvezdnyy Nikel-->
+        <zone name="InfectedScientist" smin="0" smax="0" dmin="1" dmax="2" x="11721" z="10067" r="80"/> <!--Zvezdnyy Nikel-->
+    </territory>
+    <territory color="2610838962">
+        <zone name="InfectedNBCYellow" smin="0" smax="0" dmin="8" dmax="11" x="11000" z="11500" r="150"/> <!--Sovetskoye-->
+        <zone name="InfectedNBCYellow" smin="0" smax="0" dmin="4" dmax="6" x="13757" z="11908" r="35"/> <!--Rudnogorsk-->
+        <zone name="InfectedNBCYellow" smin="0" smax="0" dmin="5" dmax="7" x="13735" z="11855" r="35"/> <!--Rudnogorsk-->
+        <zone name="InfectedNBCYellow" smin="0" smax="0" dmin="2" dmax="3" x="13741" z="11800" r="60"/> <!--Rudnogorsk-->
+        <zone name="InfectedNBCYellow" smin="0" smax="0" dmin="5" dmax="7" x="12904" z="7378" r="60"/> <!--Aniva-->
+        <zone name="InfectedNBCYellow" smin="0" smax="0" dmin="5" dmax="7" x="6999" z="7577" r="70"/> <!--Nogovo mil. base-->
+        <zone name="InfectedNBCYellow" smin="0" smax="0" dmin="3" dmax="5" x="7001" z="7531" r="50"/> <!--Nogovo mil. base-->
+        <zone name="InfectedNBCYellow" smin="0" smax="0" dmin="3" dmax="5" x="7062" z="7579" r="90"/> <!--Nogovo mil. base-->
+        <zone name="InfectedNBCYellow" smin="0" smax="0" dmin="4" dmax="6" x="6999" z="7150" r="40"/> <!--Nogovo mil. base-->
+        <zone name="InfectedNBCYellow" smin="0" smax="0" dmin="3" dmax="5" x="6999" z="7088" r="70"/> <!--Nogovo mil. base-->
+    </territory>
+    <territory color="3014746644">
+        <zone name="InfectedFirefighter" smin="0" smax="0" dmin="3" dmax="6" x="6945" z="7625.63" r="60"/>
+        <zone name="InfectedFirefighter" smin="0" smax="0" dmin="4" dmax="8" x="12688.3" z="7488.33" r="50"/>
+        <zone name="InfectedFirefighter" smin="0" smax="0" dmin="4" dmax="8" x="13763.1" z="11765.8" r="50"/>
+    </territory>
+    <territory color="1289674462">
+        <zone name="InfectedPrisoner" smin="0" smax="0" dmin="2" dmax="3" x="12102" z="9779" r="20"/> <!--first yard north-->
+        <zone name="InfectedPrisoner" smin="0" smax="0" dmin="2" dmax="3" x="12083" z="9754" r="20"/> <!--first yard south-->
+        <zone name="InfectedPrisoner" smin="0" smax="0" dmin="2" dmax="3" x="12121" z="9706" r="20"/> <!--second yard north-->
+        <zone name="InfectedPrisoner" smin="0" smax="0" dmin="2" dmax="3" x="12137" z="9724" r="20"/> <!--second yard south-->
+        <zone name="InfectedPrisoner" smin="0" smax="0" dmin="2" dmax="9" x="12116" z="9738" r="180"/> <!--epicenter-->
+        <zone name="InfectedPrisoner" smin="0" smax="0" dmin="2" dmax="3" x="12024" z="9887" r="150"/> <!--escapees-->
+        <zone name="InfectedPrisoner" smin="0" smax="0" dmin="2" dmax="3" x="11933" z="9749" r="150"/> <!--escapees-->
+        <zone name="InfectedPrisoner" smin="0" smax="0" dmin="2" dmax="3" x="11846" z="9923" r="120"/> <!--escapees-->
+        <zone name="InfectedPrisoner" smin="0" smax="0" dmin="2" dmax="3" x="11716" z="10015" r="110"/> <!--escapees-->
+        <zone name="InfectedPrisoner" smin="0" smax="0" dmin="2" dmax="3" x="11719" z="9807" r="100"/> <!--escapees-->
+    </territory>
+    <territory color="1794965507">
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="5" dmax="8" x="9495" z="13530" r="50"/> <!--Serveromorsk-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="4" dmax="6" x="13272" z="12064.6" r="50"/> <!--Rudnogorsk-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="3" x="12721" z="7353" r="50"/> <!--Aniva-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="4" dmax="6" x="12690" z="7264" r="60"/> <!--Aniva-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="0" dmax="1" x="12769" z="7287" r="70"/> <!--Nogovo mil base-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="3" x="7320" z="9708" r="50"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="0" dmax="2" x="12224" z="10015" r="70"/> <!--Sakhalag-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="1" dmax="2" x="11988" z="9744" r="90"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="3" x="12078" z="9686" r="80"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="3" x="12110" z="9796" r="80"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="3" x="12158" z="9709" r="80"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="3" x="12060" z="9727" r="80"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="3" x="12121" z="9738" r="200"/> <!--Sakhalag-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="3" x="5659" z="10854" r="90"/> <!--Petropavlovsk-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="3" dmax="5" x="5659" z="10854" r="90"/> <!--Petropavlovsk-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="0" dmax="2" x="2593" z="7361" r="50"/> <!--Burukan-->
+    </territory>
+    <territory color="1794965508">
+        <zone name="InfectedPoliceHard" smin="0" smax="0" dmin="0" dmax="0" x="0.0" z="0.0" r="0"/>
+    </territory>
+    <!--Army-->
+    <territory color="1124502271">
+        <zone name="InfectedArmyT1" smin="0" smax="0" dmin="0" dmax="2" x="12916" z="7333" r="80"/> <!-- Aniva -->
+        <zone name="InfectedArmyT1" smin="0" smax="0" dmin="5" dmax="8" x="13733" z="11844" r="90"/> <!-- Rudnogorsk -->
+        <zone name="InfectedArmyT1" smin="0" smax="0" dmin="0" dmax="2" x="9394" z="13617" r="90"/> <!-- Serveromorsk -->
+        <zone name="InfectedArmyT1" smin="0" smax="0" dmin="0" dmax="1" x="12855" z="9420" r="90"/> <!-- East Peak -->
+    </territory>
+    <territory color="1124502272">
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="8" x="6340" z="12833" r="70"/> <!-- Sovetskoye -->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="7" x="5453" z="10197" r="100"/> <!-- Petropavlovsk -->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="9" x="5473" z="10127" r="120"/> <!-- Petropavlovsk -->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="7" dmax="10" x="9047" z="6718" r="80"/> <!-- Taranaj west -->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="5" x="10633" z="6676" r="70"/> <!-- Taranaj east -->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="8" dmax="11" x="7100" z="7539" r="200"/> <!-- Nogovo -->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="12" dmax="15" x="7150" z="7335" r="200"/> <!-- Nogovo -->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="9" dmax="12" x="6886" z="7170" r="160"/> <!-- Nogovo -->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="9" x="8341" z="10305" r="190"/> <!-- Sakhalin Geopp -->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="6" x="4416" z="8888" r="100"/> <!-- Burukan -->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="8" x="4226" z="8962" r="100"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="6" x="4055" z="9030" r="150"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="3630" z="9340" r="60"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="5" x="3615" z="9393" r="90"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="6" x="2690" z="9150" r="160"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="12" x="1016" z="7673" r="130"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="8" dmax="10" x="1100" z="7615" r="260"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="8" x="2370" z="5865" r="200"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="6" x="2520" z="5865" r="100"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="6" x="2677" z="5816" r="100"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="2823" z="5745" r="100"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="6" x="2640" z="5992" r="90"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="2800" z="5999" r="80"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="8" dmax="10" x="2952" z="6000" r="70"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="8" x="2885" z="5902" r="60"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="6" x="2824" z="5814" r="60"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="6" x="2977" z="5750" r="100"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="6" x="2380" z="6015" r="100"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="6" x="2533" z="5994" r="100"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="6" x="2685" z="5988" r="100"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="6" x="2835" z="5990" r="100"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="6" x="2983" z="6013" r="100"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="6" x="3090" z="5866" r="100"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="8" dmax="10" x="4738" z="4995" r="150"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="8" dmax="10" x="4946" z="5021" r="150"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="8" dmax="10" x="4760" z="4788" r="150"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="8" dmax="10" x="4950" z="4837" r="150"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="8" dmax="10" x="5154" z="4783" r="150"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="8" dmax="10" x="5004" z="4565" r="150"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="8" dmax="10" x="5120" z="4380" r="150"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="8" dmax="10" x="5266" z="4218" r="150"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="8" dmax="10" x="5131" z="4051" r="150"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="8" dmax="10" x="5604" z="4260" r="150"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="8" dmax="10" x="5681" z="4404" r="150"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="8" dmax="10" x="5700" z="4600" r="150"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="8" dmax="10" x="5450" z="4603" r="150"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="6" x="2924" z="6975" r="60"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="8" dmax="10" x="3390" z="6670" r="130"/>
+		<!--Burukan second layer-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="3500" z="9300" r="300"/> <!--Burukan n-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="2900" z="9288" r="300"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="2580" z="8763" r="250"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="2200" z="8377" r="250"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="1800" z="7916" r="250"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="2010" z="7545" r="250"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="2137" z="7166" r="250"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="1905" z="6877" r="250"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="2077" z="6540" r="250"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="2542" z="6641" r="250"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="2962" z="6622" r="250"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="3330" z="6405" r="250"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="3401" z="6056" r="250"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="3596" z="5666" r="200"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="3993" z="5790" r="200"/> <!--Burukan n-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="4278" z="5565" r="200"/> <!--Burukan e-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="4477" z="5388" r="200"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="4905" z="5006" r="200"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="5491" z="3360" r="150"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="5469" z="3554" r="150"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="5297" z="3457" r="150"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="5230" z="3663" r="150"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="5109" z="3825" r="150"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="3" x="4785" z="4113" r="150"/> <!--Burukan s-->
+    </territory>
+    <territory color="2421555014">
+        <zone name="InfectedArmyIndustry" smin="0" smax="0" dmin="4" dmax="6" x="2700" z="7290" r="150"/>
+        <zone name="InfectedArmyIndustry" smin="0" smax="0" dmin="5" dmax="8" x="3141" z="7006" r="200"/>
+        <zone name="InfectedArmyIndustry" smin="0" smax="0" dmin="7" dmax="10" x="3328" z="6759" r="200"/>
+        <zone name="InfectedArmyIndustry" smin="0" smax="0" dmin="4" dmax="6" x="5509" z="4010" r="120"/>
+    </territory>
+    <territory color="1124502273">
+        <zone name="InfectedArmyGhillie" smin="0" smax="0" dmin="0" dmax="3" x="6720" z="7306" r="150"/> <!--Nogovo-->
+        <zone name="InfectedArmyGhillie" smin="0" smax="0" dmin="0" dmax="3" x="6859" z="7584" r="150"/>
+        <zone name="InfectedArmyGhillie" smin="0" smax="0" dmin="0" dmax="3" x="7119" z="7754" r="150"/>
+        <zone name="InfectedArmyGhillie" smin="0" smax="0" dmin="0" dmax="3" x="7306" z="7533" r="150"/>
+        <zone name="InfectedArmyGhillie" smin="0" smax="0" dmin="0" dmax="3" x="7338" z="7234" r="150"/> <!--Nogovo-->
+        <zone name="InfectedArmyGhillie" smin="0" smax="0" dmin="2" dmax="5" x="5870" z="4741" r="200"/> <!--Burukan-->
+        <zone name="InfectedArmyGhillie" smin="0" smax="0" dmin="0" dmax="0" x="6031" z="4385" r="200"/>
+        <zone name="InfectedArmyGhillie" smin="0" smax="0" dmin="2" dmax="5" x="5883" z="4153" r="150"/> <!--Burukan-->
+    </territory>
+    <territory color="1124502274">
+        <zone name="InfectedArmyW" smin="0" smax="0" dmin="8" dmax="12" x="11056" z="11518" r="150"/> <!-- Ostry -->
+        <zone name="InfectedArmyW" smin="0" smax="0" dmin="8" dmax="12" x="8207" z="12003" r="150"/> <!-- Wolf Peak -->
+        <zone name="InfectedArmyW" smin="0" smax="0" dmin="10" dmax="13" x="7425" z="9697" r="150"/> <!-- Yasnaya west mil. base -->
+        <zone name="InfectedArmyW" smin="0" smax="0" dmin="8" dmax="12" x="10386" z="8553" r="150"/> <!-- Ice Ridge -->
+        <zone name="InfectedArmyW" smin="0" smax="0" dmin="3" dmax="5" x="12800" z="9400" r="90"/> <!-- East Peak -->
+        <zone name="InfectedArmyW" smin="0" smax="0" dmin="4" dmax="6" x="12900" z="9440" r="150"/> <!-- East Peak -->
+    </territory>
+    <territory color="1124502275">
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="10" dmax="12" x="5420" z="3992" r="200"/> <!--Burukan-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="10" dmax="12" x="5555" z="4111" r="200"/> <!--Burukan-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="5" dmax="8" x="4049" z="9050" r="150"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="3999" z="9121" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="3827" z="9203" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="3829" z="9396" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="3906" z="9557" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="3886" z="9716" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="3701" z="9728" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="3500" z="9734" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="3510" z="9596" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="3337" z="9423" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="3142" z="9433" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="2969" z="9566" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="2756" z="9526" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="2584" z="9428" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="2395" z="9271" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="2374" z="9069" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="2415" z="8877" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="2342" z="8701" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="2182" z="8601" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="1947" z="8578" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="1770" z="8612" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="1572" z="8583" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="1415" z="8475" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="1262" z="8349" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="1170" z="8198" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="1061" z="8049" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="787" z="7652" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="736" z="7462" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="861" z="7284" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="1038" z="7233" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="1268" z="7189" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="1411" z="7085" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="1560" z="6919" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="1607" z="6750" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="1595" z="6565" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="1648" z="6378" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="1665" z="6195" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="1741" z="6002" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="1912" z="5934" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="2118" z="5880" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="2259" z="5776" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="2371" z="5651" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="2529" z="5587" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="2737" z="5572" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="2863" z="5475" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="3043" z="5456" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="3245" z="5418" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="3440" z="5428" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="3661" z="5416" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="3851" z="5409" r="100"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="0" dmax="1" x="4106" z="5373" r="120"/> <!--Burukan beaches-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="2" dmax="3" x="3880" z="5600" r="120"/> <!--ZEH-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="3" dmax="5" x="3980" z="5600" r="150"/> <!--ZEH-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="4" dmax="6" x="4180" z="5750" r="190"/> <!--ZEH-->
+        <zone name="InfectedArmyUS" smin="0" smax="0" dmin="2" dmax="3" x="4300" z="5600" r="90"/> <!--ZEH-->
+    </territory>
+    <territory color="1124502276">
+        <zone name="InfectedArmyOfc" smin="0" smax="0" dmin="0" dmax="1" x="13770" z="11790" r="70"/> <!--Rudnogorsk-->
+        <zone name="InfectedArmyOfc" smin="0" smax="0" dmin="0" dmax="1" x="11028" z="11560" r="120"/> <!--Ostry-->
+        <zone name="InfectedArmyOfc" smin="0" smax="0" dmin="0" dmax="1" x="10366" z="8555" r="150"/> <!--Ice Ridge-->
+        <zone name="InfectedArmyOfc" smin="0" smax="0" dmin="0" dmax="1" x="8211" z="11977" r="90"/> <!--Wolf Peak-->
+        <zone name="InfectedArmyOfc" smin="0" smax="0" dmin="1" dmax="1" x="7040" z="7380" r="350"/> <!--Nogovo-->
+        <zone name="InfectedArmyOfc" smin="0" smax="0" dmin="0" dmax="1" x="5477" z="10101" r="120"/> <!--PPS-->
+        <!--Burukan-->
+		<zone name="InfectedArmyOfc" smin="0" smax="0" dmin="0" dmax="1" x="1000" z="7700" r="70"/>
+		<zone name="InfectedArmyOfc" smin="0" smax="0" dmin="1" dmax="1" x="3177" z="6800" r="300"/>
+		<zone name="InfectedArmyOfc" smin="0" smax="0" dmin="1" dmax="1" x="2600" z="6000" r="250"/>
+		<zone name="InfectedArmyOfc" smin="0" smax="0" dmin="1" dmax="1" x="5400" z="4044" r="200"/>
+    </territory>
+</territory-type>
