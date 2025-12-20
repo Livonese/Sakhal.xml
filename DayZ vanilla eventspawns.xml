@@ -560,6 +560,31 @@
 			<pos x="9356.72" z="9915.94" a="20.000300" y="38.3602" group="StaticTrader_NogoNorth9"/> <!-- Goryachevo/Dolinovka -->
 			<!-- Nogovo north-->
 		</event>
+		<event name="StaticTrafficSituation">
+			<zone smin="0" smax="0" dmin="1" dmax="2" r="20" />
+			<pos x="6773.16" z="12396.56" a="30" y="49.747" group="Block_SovetskoyeE"/>
+			<pos x="6155.63" z="12333.28" a="0" y="4.7" group="Block_SovetskoyeS"/>
+			<pos x="5595.06" z="12533.0" a="0" y="4.69517" group="Block_ZhupanovoC"/>
+			<pos x="5759.06" z="11823.75" a="-47.66" y="17.53" group="Block_ZhupanovoS"/>
+			<pos x="5225.19" z="11682.66" a="0" y="11.4537" group="Block_PPS1"/>
+			<pos x="5520.47" z="11144.06" a="0" y="8.98" group="Block_PPS2"/>
+			<pos x="5660.86" z="10375.31" a="0" y="2.815" group="Block_PPS3"/>
+			<pos x="6401.16" z="10803.19" a="0" y="29.4516" group="Block_PPS4"/>
+			<pos x="6114.86" z="9520.08" a="0" y="56.2917" group="Block_TikhoyeN"/>
+			<pos x="6245.16" z="8633.20" a="0" y="42.52" group="Block_TikhoyeC"/>
+			<pos x="5186.48" z="8782.73" a="0" y="2.67946" group="Block_Bolotnoye"/>
+			<pos x="6048.56" z="7489.25" a="0" y="4.48" group="Block_Dudino"/>
+			<pos x="7403.44" z="8777.03" a="0" y="20.87" group="Block_YasnayaW"/>
+			<pos x="8267.25" z="9623.59" a="0" y="21.1311" group="Block_YasnayaN"/>
+			<pos x="9541.34" z="9925.78" a="0" y="41.2349" group="Block_Dolinovka"/>
+			<pos x="11067.00" z="9636.00" a="0" y="103.95" group="Block_Lesogorovka"/>
+			<pos x="12204.00" z="9997.50" a="0" y="172.236" group="Block_Sakhalag"/>
+			<pos x="11159.53" z="8075.16" a="0" y="121.442" group="Block_Vysokoye"/>
+			<pos x="10809.00" z="6316.45" a="0" y="6.31525" group="Block_Yuzhnoye"/>
+			<pos x="9348.75" z="6499.28" a="0" y="17.9482" group="Block_Taranaj"/>
+			<pos x="9533.03" z="7550.00" a="0" y="48.1863" group="Block_Taranagovo"/>
+			<pos x="7660.47" z="7907.66" a="0" y="2.6001" group="Block_Nogovo"/>
+		</event>
 		<event name="ItemPlanks">
 			<pos x="4901.676270" z="11312.855469" />
 			<pos x="5282.824219" z="11173.461914" />
