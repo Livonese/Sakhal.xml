@@ -43,7 +43,9 @@
         <zone name="InfectedCiv" smin="0" smax="0" dmin="8" dmax="11" x="7573" z="7846" r="150"/> <!--Nogovo-->
         <zone name="InfectedCiv" smin="0" smax="0" dmin="4" dmax="6" x="7787" z="7882" r="150"/>
         <zone name="InfectedCiv" smin="0" smax="0" dmin="5" dmax="7" x="7929" z="7668" r="150"/>
-        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="7958" z="7419" r="150"/> <!--Nogovo-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="7958" z="7419" r="150"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="1" dmax="2" x="8500" z="7888" r="100"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="3" dmax="4" x="8450" z="7720" r="120"/> <!--Nogovo-->
         <zone name="InfectedCiv" smin="0" smax="0" dmin="7" dmax="10" x="6222" z="8668" r="200"/> <!--Tikhoye-->
         <zone name="InfectedCiv" smin="0" smax="0" dmin="6" dmax="9" x="6525" z="12842" r="95"/> <!--Sovetskoye-->
         <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="6683" z="12733" r="80"/> <!--Sovetskoye-->
