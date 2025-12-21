@@ -35,21 +35,27 @@
         <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="9673" z="6808" r="150"/> <!--Taranaj-->
         <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="9678" z="7080" r="150"/> <!--Taranaj-->
         <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="9236" z="7494" r="110"/> <!--Taranaj n-->
-        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="10700" z="6560" r="120"/> <!--Yuzhnoye-->
-        <zone name="InfectedCiv" smin="0" smax="0" dmin="3" dmax="5" x="10783" z="6480" r="120"/> <!--Yuzhnoye-->
-        <zone name="InfectedCiv" smin="0" smax="0" dmin="5" dmax="8" x="10865" z="6321" r="150"/> <!--Yuzhnoye-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="10520" z="7212" r="100"/> <!--Yuzhnoye-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="4" dmax="6" x="10700" z="6560" r="120"/> <!--Yuzhnoye-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="5" dmax="7" x="10783" z="6480" r="120"/> <!--Yuzhnoye-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="6" dmax="8" x="10865" z="6321" r="150"/> <!--Yuzhnoye-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="10390" z="6359" r="90"/> <!--Yuzhnoye-->
         <zone name="InfectedCiv" smin="0" smax="0" dmin="8" dmax="11" x="7573" z="7846" r="150"/> <!--Nogovo-->
         <zone name="InfectedCiv" smin="0" smax="0" dmin="4" dmax="6" x="7787" z="7882" r="150"/>
         <zone name="InfectedCiv" smin="0" smax="0" dmin="5" dmax="7" x="7929" z="7668" r="150"/>
         <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="7958" z="7419" r="150"/> <!--Nogovo-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="7" dmax="10" x="6222" z="8668" r="200"/> <!--Tikhoye-->
         <zone name="InfectedCiv" smin="0" smax="0" dmin="6" dmax="9" x="6525" z="12842" r="95"/> <!--Sovetskoye-->
         <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="6683" z="12733" r="80"/> <!--Sovetskoye-->
-        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="6207" z="12737" r="150"/> <!--Sovetskoye w-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="6507" z="12734" r="100"/> <!--Sovetskoye w-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="6307" z="12737" r="100"/> <!--Sovetskoye w-->
         <zone name="InfectedCiv" smin="0" smax="0" dmin="3" dmax="5" x="5702" z="12519" r="150"/> <!--Zhupanovo-->
         <zone name="InfectedCiv" smin="0" smax="0" dmin="6" dmax="9" x="5930" z="12638" r="150"/> <!--Zhupanovo-->
         <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="5728" z="12420" r="200"/> <!--Zhupanovo-->
         <zone name="InfectedCiv" smin="0" smax="0" dmin="4" dmax="6" x="5979" z="12680" r="130"/> <!--Zhupanovo-->
-        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="5468" z="11208" r="90"/> <!--Petropavlovsk-Sakhalinsk-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="5648" z="11931" r="100"/> <!--Zhupanovo s-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="5548" z="11408" r="90"/> <!--Petropavlovsk-Sakhalinsk-->
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="5468" z="11208" r="90"/>
         <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="5531" z="11086" r="90"/>
         <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="5613" z="11234" r="90"/>
         <zone name="InfectedCiv" smin="0" smax="0" dmin="3" dmax="5" x="5709" z="11094" r="90"/>
@@ -63,6 +69,12 @@
         <zone name="InfectedCiv" smin="0" smax="0" dmin="5" dmax="7" x="5715" z="10195" r="90"/>
         <zone name="InfectedCiv" smin="0" smax="0" dmin="5" dmax="7" x="5962" z="10230" r="90"/>
         <zone name="InfectedCiv" smin="0" smax="0" dmin="3" dmax="5" x="6000" z="11111" r="110"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="3" dmax="5" x="6060" z="10800" r="150"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="3" dmax="5" x="6080" z="10500" r="150"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="6313" z="11066" r="150"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="6333" z="10900" r="150"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="1" dmax="1" x="7001" z="10822" r="120"/>
+        <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="6366" z="10599" r="150"/>
         <zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="5637" z="10057" r="90"/>
         <zone name="InfectedCiv" smin="0" smax="0" dmin="6" dmax="9" x="5256" z="9899" r="160"/>
         <zone name="InfectedCiv" smin="0" smax="0" dmin="6" dmax="9" x="5474" z="9936" r="150"/> <!--Petropavlovsk-Sakhalinsk-->
@@ -71,7 +83,7 @@
     </territory>
     <territory color="1291845632">
         <zone name="InfectedReligious" smin="0" smax="0" dmin="2" dmax="3" x="9604.29" z="13463.6" r="50"/>
-        <zone name="InfectedReligious" smin="0" smax="0" dmin="2" dmax="9" x="5710" z="10410" r="100"/>
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="2" dmax="7" x="5710" z="10410" r="70"/>
     </territory>
     <territory color="1910952871">
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="0" dmax="3" x="9579" z="13283" r="90"/> <!--Serveromorsk-->
@@ -82,6 +94,7 @@
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="0" dmax="3" x="11021" z="8064" r="90"/> <!--Vysokoye-->
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="4" dmax="6" x="10851" z="6286" r="90"/> <!--Yuzhnoye-->
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="4" x="5426" z="9960" r="140"/> <!--P.P.S.-->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="5" x="7001" z="10822" r="140"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="4" x="5651" z="10150" r="150"/> <!--P.P.S.-->
     </territory>
     <territory color="1910952872">
@@ -161,7 +174,7 @@
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="5" dmax="8" x="11050" z="9500" r="200"/> <!--Lesogorovka-->
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="8" dmax="11" x="8338" z="10360" r="90"/> <!--Sakhalin Geopp-->
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="6" dmax="9" x="8434" z="10270" r="80"/> <!--Sakhalin Geopp-->
-        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="5" x="5702" z="12173" r="200"/> <!--Zhupanovo-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="5" dmax="7" x="5555" z="11933" r="150"/> <!--Zhupanovo s-->
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="3" x="4795" z="11200" r="80"/> <!--Petropavlovsk-->
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="3" x="4840" z="11351" r="90"/>
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="5" x="5151" z="11377" r="90"/>
